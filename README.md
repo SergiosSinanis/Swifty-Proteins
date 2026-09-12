@@ -4,7 +4,7 @@ A mobile application built with Flutter and Dart that allows users to search for
 
 ## Authors
 
-Swifty Proteins is developed as an individual project at 42 École, showcasing practical understanding of mobile application development with Flutter and Dart, API integration, structured data processing, 3D visualization, user interaction, and responsive interface design.
+Swifty Proteins is developed as a collaborative team project. The project showcases practical understanding of mobile application development with Flutter and Dart, API integration, structured data processing, 3D visualization, user interaction, and responsive interface design.
 
 ## Key Features
 
