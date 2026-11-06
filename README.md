@@ -1,10 +1,13 @@
 # Swifty Proteins
 
+<img width="920" height="1772" alt="Screenshot 2026-11-06 at 11 36 03 PM - black background" src="https://github.com/user-attachments/assets/173504b2-f788-4d9b-b414-aa2a8e571bc6" />
+
 A mobile application built with Flutter and Dart that allows users to search for proteins and visualize their molecular structure in 3D. This project demonstrates mobile application development, REST API integration, protein data parsing, 3D molecular visualization, asynchronous programming, and responsive user interface design.
 
 ## Authors
 
-Swifty Proteins is developed as a collaborative team project at 42 Paris École. The project showcases practical understanding of mobile application development with Flutter and Dart, API integration, structured data processing, 3D visualization, user interaction, and responsive interface design.
+Swifty Proteins is developed as a mobile project at 42 Paris École. The project showcases practical understanding of mobile application development with Flutter and Dart, API integration, structured data processing, 3D visualization, user interaction, and responsive interface design.
+
 
 ## Key Features
 
