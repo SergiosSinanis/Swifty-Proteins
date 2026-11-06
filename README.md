@@ -1,6 +1,6 @@
 # Swifty Proteins
 
-<img width="920" height="1772" alt="Screenshot 2026-11-06 at 11 36 03 PM - black background" src="https://github.com/user-attachments/assets/173504b2-f788-4d9b-b414-aa2a8e571bc6" />
+<img width="383" height="481" alt="Screenshot 2026-11-06 at 11 36 03 PM" src="https://github.com/user-attachments/assets/89f8ec56-a53d-43c6-95f2-e7926c20f056" />
 
 A mobile application built with Flutter and Dart that allows users to search for proteins and visualize their molecular structure in 3D. This project demonstrates mobile application development, REST API integration, protein data parsing, 3D molecular visualization, asynchronous programming, and responsive user interface design.
 
@@ -12,6 +12,8 @@ Swifty Proteins is developed as a mobile project at 42 Paris École. The project
 ## Key Features
 
 ### Protein Search
+
+<img width="392" height="309" alt="Screenshot 2026-11-06 at 11 36 22 PM" src="https://github.com/user-attachments/assets/cabe6ee4-deeb-46c0-946e-8466258b2a46" />
 
 - Protein Search: Search for proteins using their identifiers
 - API Integration: Retrieve protein structure data from a remote API
@@ -33,6 +35,8 @@ Swifty Proteins is developed as a mobile project at 42 Paris École. The project
 
 ### 3D Molecular Visualization
 
+<img width="382" height="435" alt="Screenshot 2026-11-06 at 11 37 22 PM" src="https://github.com/user-attachments/assets/44e693d2-d6e6-4ac1-8f4f-f1d4bb773650" />
+
 - 3D Rendering: Display protein structures in an interactive three-dimensional environment
 - Atom Visualization: Represent atoms as visual elements
 - Bond Visualization: Display connections between atoms
@@ -51,6 +55,8 @@ Swifty Proteins is developed as a mobile project at 42 Paris École. The project
 - Asynchronous Programming: Handle network operations without blocking the interface
 - Navigation: Move between search and visualization screens
 - Responsive Layout: Adapt the interface to different screen sizes and orientations
+
+<img width="364" height="442" alt="Screenshot 2026-11-06 at 11 37 45 PM" src="https://github.com/user-attachments/assets/a7ce51ca-8e7a-41d5-a0b3-30e518ac5be0" />
 
 ### Error Handling
 
